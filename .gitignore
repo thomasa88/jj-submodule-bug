@@ -1,0 +1,4 @@
+# Ignore Python artifacts and subrepo working dirs
+__pycache__/
+*.pyc
+_subrepos/*/.git/
