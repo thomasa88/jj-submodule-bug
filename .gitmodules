@@ -1,3 +1,6 @@
 [submodule "_subrepos/submodule-a"]
 	path = _subrepos/submodule-a
 	url = ./sub1
+[submodule "sub"]
+	path = sub
+	url = git@github.com:thomasa88/jujutsu-submodule-bug-sub.git
